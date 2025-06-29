@@ -5,7 +5,7 @@ import streamlit as st
 
 # Set page configuration
 st.set_page_config(
-    page_title="HomeQuest.AI",
+    page_title="HomeHunt.AI",
     page_icon="🏠",
     layout="wide",
 )

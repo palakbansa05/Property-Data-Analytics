@@ -1,4 +1,4 @@
-# HomeQuest.AI 🏠
+# HomeHunt.AI 🏠
 The AI-Powered Home Finder is a groundbreaking solution revolutionizing the home search experience in Gurgaon. Utilizing advanced AI algorithms, it delivers personalized recommendations based on individual preferences and requirements. Users can input specific details such as price range and preferred amenities to receive tailored suggestions. The platform combines Facilities-based and Price-based recommendation engines, allowing users to customize weighting for optimal results. Additionally, the HomeLoan Assurance Advisor provides invaluable insights into loan eligibility, ensuring informed decision-making for property investments. Welcome to the future of home hunting with precision and convenience.
 
 

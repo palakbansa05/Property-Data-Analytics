@@ -42,7 +42,7 @@ def main_page():
 
         # Content for main page
         st.markdown(
-            "<h1 style='text-align: left; font-size: 70px; '>HomeQuest.AI🏡</h1>",
+            "<h1 style='text-align: left; font-size: 70px; '>HomeHunt.AI🏡</h1>",
             unsafe_allow_html=True,
         )
         st.write("")
